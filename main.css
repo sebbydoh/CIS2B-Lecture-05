@@ -1,7 +1,14 @@
 h1 {
     background-color: lightblue;
+    margin: 0 50px;
+    padding: 10px;
 }
 
 p {
     background-color: lightgreen;
+    border: 3px groove lightcoral;
+}
+
+.absolute-width {
+    width: 300px;
 }
